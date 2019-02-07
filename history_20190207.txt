@@ -1,0 +1,19 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/Kibersportists/RTR108
+    4  ls -lt
+    5  cd RTR108
+    6  ls -lt
+    7  nano README.md
+    8  ls -lt
+    9  git config --global user.email ladejas123@gmail.com
+   10  git add .
+   11  git commit -m "20190207_14_55_pirmais_commits"
+   12  git push origin master
+   13  nano README.md
+   14  nano git-upload
+   15  ls -lt
+   16  ./git-upload
+   17  chmod 740 git-upload
+   18  ls -lt
+   19  history > history_20190207.txt
