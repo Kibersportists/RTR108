@@ -18,3 +18,8 @@ Mēs vienmēr esam kaut kur failu sistēmā
 ls ~/../../mape par kuru grib uzzināt informāciju/../
 
 cd - no jebkuras vietas nonāk uz mājas mapi
+
+PATH=$PATH:~/ - nomaina path uz citu atrašanās vietu
+
+chmod 750 x - piešķir tiesības x failam
+
