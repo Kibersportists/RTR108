@@ -24,3 +24,7 @@ echo $0
 echo $PATH  
 chmod 750 x - piešķir 750 tiesības x failam  
 
+GITHUB uploads  
+mv x RTR108/ - pārvieto x failu uz RTR108 mapi
+cd RTR108 - ieiet mapē RTR108  
+./git-upload gadsmenesisdatums_stundas_minutes - Augšupielādē mapi  
