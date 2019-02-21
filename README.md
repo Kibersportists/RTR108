@@ -20,8 +20,7 @@ cd . -solis uz vietas
 cd .. - solis atpakaļ  
 echo $PATH - parāda ceļu  
 PATH=$PATH:x - Nomaina path uz x, piemēram x = ~/  
-echo $0  
-echo $PATH  
+echo $PATH - Sistēmas ceļu saraksts  
 chmod 750 x - piešķir 750 tiesības x failam  
 
 GITHUB uploads  
