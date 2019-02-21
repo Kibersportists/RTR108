@@ -12,7 +12,7 @@ man x                   dod manuālu par x komadu
 uname/uname -a          dod informāciju par OS  
 echo $0                 dod informāciju par interpretātoru  
 whoami                  KAS es esmu?  
-pwd                     KUR es esmu?  
+pwd     KUR es esmu?  
 ls                      KAM man ir pieeja(no vietas, kur es atrodos)?  
 ls ~/../x/../ - parāda kas ir pieejams mapē x  , ~ = /home/user
 cd - aiziet uz home mapi  
