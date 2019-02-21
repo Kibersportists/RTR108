@@ -8,12 +8,12 @@ rinda 3
 MĀJĀS - Windows palaist VirtualBox, kur palaiž Unbuntu 16  
 
 
-man x                   dod manuālu par x komadu  
-uname/uname -a          dod informāciju par OS  
-echo $0                 dod informāciju par interpretātoru  
-whoami                  KAS es esmu?  
-pwd     KUR es esmu?  
-ls                      KAM man ir pieeja(no vietas, kur es atrodos)?  
+man x - dod manuālu par x komadu  
+uname/uname -a - dod informāciju par OS  
+echo $0 - dod informāciju par interpretātoru  
+whoami - KAS es esmu?  
+pwd - KUR es esmu?  
+ls - KAM man ir pieeja(no vietas, kur es atrodos)?  
 ls ~/../x/../ - parāda kas ir pieejams mapē x  , ~ = /home/user
 cd - aiziet uz home mapi  
 cd . -solis uz vietas  
