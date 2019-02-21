@@ -23,3 +23,13 @@ PATH=$PATH:~/ - nomaina path uz citu atrašanās vietu
 
 chmod 750 x - piešķir tiesības x failam 
 
+man x - dod manuālu par x komadu
+uname/uname -a - dod informāciju par OS
+echo $0 - dod informāciju par interpretātoru
+whoami - KAS es esmu?
+pwd - KUR es esmu?
+ls - KAM man ir pieeja(no vietas, kur es atrodos)?
+ls ~/../x/../ - parāda kas ir pieejams mapē x
+cd - aiziet uz home mapi
+cd . -solis uz vietas
+cd .. - solis atpakaļ
