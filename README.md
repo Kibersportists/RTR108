@@ -38,3 +38,5 @@ read x - Noalasa ievadīto mainīgo, līdz brīdim, kad nospiež enter
 
 echo "$x" - Izvadīs vērtību mainīgajam x, kurš iepriekš jau ir definēts
 
+Komandas, kas saistās ar $x :  
+- $0 dod faila nosaukumu
