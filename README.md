@@ -46,5 +46,5 @@ Komandas, kas saistās ar $x :
 - $# parāda argumentu skaitu  
 - $? parāda rezultātu iepriekšejai komandai, ja nebija errori, tad tas ir 0  
 - $* un $@ izvada visus argumentus rindā, ja $x ir "", tad izvada visus argumentus kollona,  
-reāli nesaprotu kāpēc ir @ un * nezinu atšķirību  
+reāli nesaprotu kāpēc ir * visu uztver kā vienu argumentu, @ uztver kā argumentu sarakstu
 
