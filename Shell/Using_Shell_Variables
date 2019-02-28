@@ -1,0 +1,23 @@
+# NAME="Zara Ali"
+
+
+#VAR1="Zara Ali"
+#VAR2=100
+
+
+#NAME="Zara Ali"
+#echo $NAME
+
+
+##!/bin/sh
+
+#NAME="Zara Ali"
+#readonly NAME
+#NAME="Qadiri"
+
+
+#!/bin/sh
+
+NAME="Zara Ali"
+unset NAME
+echo $NAME
