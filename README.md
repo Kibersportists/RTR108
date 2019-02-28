@@ -36,7 +36,10 @@ chmod 744 x - piešķir tiesības x failam
 echo "x" - tas pats kas printf, izvada textu  
 read x - Noalasa ievadīto mainīgo, līdz brīdim, kad nospiež enter  
 
-echo "$x" - Izvadīs vērtību mainīgajam x, kurš iepriekš jau ir definēts
+echo "$x" - Izvadīs vērtību mainīgajam x, kurš iepriekš jau ir definēts  
+readonly x - x mainīgo vairs nevar mainīt, bet tikai nolasīt  
 
 Komandas, kas saistās ar $x :  
-- $0 dod faila nosaukumu
+- $0 dod faila nosaukumu  
+- $n n ir vesals pozitivs skaitls, kurš norāda, kuru argumentu jāizvada  
+- $
