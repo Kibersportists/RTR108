@@ -23,7 +23,7 @@ PATH=$PATH:x - Nomaina path uz x, piemēram x = ~/
 echo $PATH - Sistēmas ceļu saraksts  
 chmod 750 x - piešķir 750 tiesības x failam  
 
-GITHUB uploads  
+# GITHUB uploads  
 mv x RTR108/ - pārvieto x failu uz RTR108 mapi
 cd RTR108 - ieiet mapē RTR108  
 ./git-upload gadsmenesisdatums_stundas_minutes - Augšupielādē mapi  
@@ -47,5 +47,4 @@ Komandas, kas saistās ar $x :
 - $? parāda rezultātu iepriekšejai komandai, ja nebija errori, tad tas ir 0  
 - $* un $@ izvada visus argumentus rindā, ja $x ir "", tad izvada visus argumentus kollona,  
 reāli nesaprotu kāpēc ir @ un * nezinu atšķirību  
-
 
