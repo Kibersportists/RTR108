@@ -49,3 +49,5 @@ Komandas, kas saistās ar $x :
 reāli nesaprotu kāpēc ir * visu uztver kā vienu argumentu, @ uztver kā argumentu sarakstu
 
 echo ${x[skaitlis]} - ja uzraksta bez { } zīmēm izvadīs x vērtību un [skaitli], tās zīmes parāda ka tas ir viens mainīgais  
+
+z = expr'x+y' - z vērtību uzstādīs kā rezultātu darbībai x+y
