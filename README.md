@@ -37,3 +37,4 @@ echo "x" - tas pats kas printf, izvada textu
 read x - Noalasa ievadīto mainīgo, līdz brīdim, kad nospiež enter  
 
 echo "$x" - Izvadīs vērtību mainīgajam x, kurš iepriekš jau ir definēts
+
