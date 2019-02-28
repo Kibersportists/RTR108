@@ -7,7 +7,7 @@ rinda 3
 
 MĀJĀS - Windows palaist VirtualBox, kur palaiž Unbuntu 16  
 
-# PRAKTISKAIS 4  
+## PRAKTISKAIS 4  
 man x - dod manuālu par x komadu  
 uname/uname -a - dod informāciju par OS  
 echo $0 - dod informāciju par interpretātoru  
@@ -29,5 +29,5 @@ cd RTR108 - ieiet mapē RTR108
 ./git-upload gadsmenesisdatums_stundas_minutes - Augšupielādē mapi  
 
 
-# PRAKTISKAIS 5  
+## PRAKTISKAIS 5  
 
