@@ -31,6 +31,7 @@ cd RTR108 - ieiet mapē RTR108
 
 ## PRAKTISKAIS 5  
 chmod 744 x - piešķir tiesības x failam  
+Šajā valodā rindas beigās nav jāliek ";", un tekstu pārnest jaunā rindā var vienākrši kodā uzspiežot ENTER  
 
 echo "x" - tas pats kas printf, izvada textu, x vietā var būt $y, kur y mainīgais, kura vērtību parādīs  
 read x - Noalasa ievadīto mainīgo, līdz brīdim, kad nospiež enter  
