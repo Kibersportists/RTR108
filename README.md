@@ -48,3 +48,4 @@ Komandas, kas saistās ar $x :
 - $* un $@ izvada visus argumentus rindā, ja $x ir "", tad izvada visus argumentus kollona,  
 reāli nesaprotu kāpēc ir * visu uztver kā vienu argumentu, @ uztver kā argumentu sarakstu
 
+echo ${x[skaitlis]} - ja uzraksta bez { } zīmēm izvadīs x vērtību un [skaitli], tās zīmes parāda ka tas ir viens mainīgais  
