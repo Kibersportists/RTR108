@@ -7,6 +7,7 @@ rinda 3
 
 MĀJĀS - Windows palaist VirtualBox, kur palaiž Unbuntu 16  
 
+# PRAKTISKAIS 4
 
 man x - dod manuālu par x komadu  
 uname/uname -a - dod informāciju par OS  
@@ -27,3 +28,7 @@ GITHUB uploads
 mv x RTR108/ - pārvieto x failu uz RTR108 mapi
 cd RTR108 - ieiet mapē RTR108  
 ./git-upload gadsmenesisdatums_stundas_minutes - Augšupielādē mapi  
+
+
+# PRAKTISKAIS 5
+
