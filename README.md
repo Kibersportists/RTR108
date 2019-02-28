@@ -38,6 +38,7 @@ read x - Noalasa ievadīto mainīgo, līdz brīdim, kad nospiež enter
 
 echo "$x" - Izvadīs vērtību mainīgajam x, kurš iepriekš jau ir definēts  
 readonly x - x mainīgo vairs nevar mainīt, bet tikai nolasīt  
+unset x - izdzēs mainīgā x vērtību  
 
 Komandas, kas saistās ar $x :  
 - $0 dod faila nosaukumu  
