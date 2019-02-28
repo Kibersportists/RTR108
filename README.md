@@ -24,6 +24,7 @@ echo $PATH - Sistēmas ceļu saraksts
 chmod 750 x - piešķir 750 tiesības x failam  
 
 # GITHUB uploads  
+git clone https://github.com/Kibersportists/RTR108  
 mv x RTR108/ - pārvieto x failu uz RTR108 mapi  
 cd RTR108 - ieiet mapē RTR108  
 ./git-upload gadsmenesisdatums_stundas_minutes - Augšupielādē mapi  
