@@ -66,7 +66,12 @@ PABEIGT Shell basic operators
 
 Unix shell atbalsta:  
 - if...else, šeit if[] then, tad var būt elif[] then, tad var būt else, lai beiktu ciklu jāraksta fi  
-- case...esac, līdzīgs switch...case  
+- case...esac, case "nosaukums" in  
+  "nosacījums") darbības, kuras jāizpilda  
+  ;;  
+  "nosacījums") darbības, kuras jāizpilda  
+  ;;  
+esac
 
 Unix Shell atbalsta:  
 - while loopu  
