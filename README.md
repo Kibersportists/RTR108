@@ -11,7 +11,7 @@ MĀJĀS - Windows palaist VirtualBox, kur palaiž Unbuntu 16
 man x - dod manuālu par x komadu  
 uname/uname -a - dod informāciju par OS  
 echo $0 - dod informāciju par interpretātoru  
-whoami - KAS es esmu?  
+whoami - KAS es esmu?  a
 pwd - KUR es esmu?  
 ls - KAM man ir pieeja(no vietas, kur es atrodos)?  
 ls ~/../x/../ - parāda kas ir pieejams mapē x  , ~ = /home/user
@@ -29,20 +29,18 @@ mv x RTR108/ - pārvieto x failu uz RTR108 mapi
 cd RTR108 - ieiet mapē RTR108  
 ./git-upload gadsmenesisdatums_stundas_minutes - Augšupielādē mapi  
 
-
 ## PRAKTISKAIS 5  
+Kad shell definē mainīgos jāraksta bez atstarpēm, savādāk met error  
+
 chmod 744 x - piešķir tiesības x failam  
 Šajā valodā rindas beigās nav jāliek ";", un tekstu pārnest jaunā rindā var vienākrši kodā uzspiežot ENTER  
-
 
 echo "x" - tas pats kas printf, izvada textu  
 read x - Noalasa ievadīto mainīgo, līdz brīdim, kad nospiež enter  
 
-
 echo "$x" - Izvadīs vērtību mainīgajam x, kurš iepriekš jau ir definēts  
 readonly x - x mainīgo vairs nevar mainīt, bet tikai nolasīt  
 unset x - izdzēs mainīgā x vērtību  
-
 
 Komandas, kas saistās ar $x :  
 - $0 dod faila nosaukumu  
@@ -52,8 +50,7 @@ Komandas, kas saistās ar $x :
 - $* un $@ izvada visus argumentus rindā, ja $x ir "", tad izvada visus argumentus kollona,  
 reāli nesaprotu kāpēc ir * visu uztver kā vienu argumentu, @ uztver kā argumentu sarakstu
 
-
 echo ${x[skaitlis]} - ja uzraksta bez { } zīmēm izvadīs x vērtību un [skaitli], tās zīmes parāda ka tas ir viens mainīgais  
 
-
 z = expr'x + y' - z vērtību uzstādīs kā rezultātu darbībai x+y, starp x un + jābūt atstarpei  
+a = b - tagad a vērtība ir tāda pati kā b
