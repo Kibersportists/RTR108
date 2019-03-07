@@ -52,7 +52,7 @@ reāli nesaprotu kāpēc ir * visu uztver kā vienu argumentu, @ uztver kā argu
 
 echo ${x[skaitlis]} - ja uzraksta bez { } zīmēm izvadīs x vērtību un [skaitli], tās zīmes parāda ka tas ir viens mainīgais  
 
-z = expr'x + y' - z vērtību uzstādīs kā rezultātu darbībai x+y, starp x un + jābūt atstarpei  
+z = 'expr x + y' - z vērtību uzstādīs kā rezultātu darbībai x+y, starp x un + jābūt atstarpei  
 x -eq y pārbauda vai x un y ir vienādi, savukārt, -ne pārbauda vai mainīgie atšķiras  
 x -gt y pārbauda vai x lielāks par y, bet x -lt y pārbauda pretējo  
 x -ge y pārbauda vai x ir lielāks vai vienāds ar y, bet x-le pārbauda pretējo  
