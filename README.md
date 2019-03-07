@@ -66,4 +66,5 @@ PABEIGT Shell basic operators
 
 Unix shell atbalsta:  
 - if...else  
-- case...esec  
+- case...esac, līdzīgs switch...case  
+
