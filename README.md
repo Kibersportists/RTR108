@@ -68,3 +68,8 @@ Unix shell atbalsta:
 - if...else  
 - case...esac, līdzīgs switch...case  
 
+Unix Shell atbalsta:  
+- while loopu  
+- for loopu  
+- until loopu  
+- select loopu  
