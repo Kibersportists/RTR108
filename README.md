@@ -64,3 +64,6 @@ x -ge y pārbauda vai x ir lielāks vai vienāds ar y, bet x-le pārbauda pretē
 [-b x] pārbauda vai x fails ir bloķēts, ja ir tad atgriež true  
 PABEIGT Shell basic operators  
 
+Unix shell atbalsta:  
+- if...else  
+- case...esec  
