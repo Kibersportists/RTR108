@@ -65,7 +65,7 @@ x -ge y pārbauda vai x ir lielāks vai vienāds ar y, bet x-le pārbauda pretē
 PABEIGT Shell basic operators  
 
 Unix shell atbalsta:  
-- if...else  
+- if...else, šeit if[] then, tad var būt elif[] then, tad var būt else, lai beiktu ciklu jāraksta fi  
 - case...esac, līdzīgs switch...case  
 
 Unix Shell atbalsta:  
@@ -73,3 +73,4 @@ Unix Shell atbalsta:
 - for loopu  
 - until loopu  
 - select loopu  
+echo -n nepārceļ pēc uzrakstīšanas tekstu jaunā rindiņā, kā to darītu vienkārši echo
