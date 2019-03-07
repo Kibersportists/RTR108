@@ -61,6 +61,6 @@ x -ge y pārbauda vai x ir lielāks vai vienāds ar y, bet x-le pārbauda pretē
 [a = b] pārbauda vai a ir vienāds ar b  
 [-z x] pārbauda vai x lielums ir 0, ja ir tad atgriež true, bet [-n x] pārbauda, lai nav lielums nav 0  
 [x] pārbauda vai x ir tukšs string mainīgais, ja ir ar kaut ko atbild ar tru, ja tukšs, tad false  
-[-b x] pārbauda vai x fails ir bloķēts, ja ir tad atgriež true
+[-b x] pārbauda vai x fails ir bloķēts, ja ir tad atgriež true  
 PABEIGT Shell basic operators  
 
