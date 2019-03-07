@@ -53,4 +53,14 @@ reāli nesaprotu kāpēc ir * visu uztver kā vienu argumentu, @ uztver kā argu
 echo ${x[skaitlis]} - ja uzraksta bez { } zīmēm izvadīs x vērtību un [skaitli], tās zīmes parāda ka tas ir viens mainīgais  
 
 z = expr'x + y' - z vērtību uzstādīs kā rezultātu darbībai x+y, starp x un + jābūt atstarpei  
-a = b - tagad a vērtība ir tāda pati kā b
+x -eq y pārbauda vai x un y ir vienādi, savukārt, -ne pārbauda vai mainīgie atšķiras  
+x -gt y pārbauda vai x lielāks par y, bet x -lt y pārbauda pretējo  
+x -ge y pārbauda vai x ir lielāks vai vienāds ar y, bet x-le pārbauda pretējo  
+[!false] pārvērš false par true un otrādi  
+-o loģiskais or un -a loģiskais a  
+[a = b] pārbauda vai a ir vienāds ar b  
+[-z x] pārbauda vai x lielums ir 0, ja ir tad atgriež true, bet [-n x] pārbauda, lai nav lielums nav 0  
+[x] pārbauda vai x ir tukšs string mainīgais, ja ir ar kaut ko atbild ar tru, ja tukšs, tad false  
+[-b x] pārbauda vai x fails ir bloķēts, ja ir tad atgriež true
+PABEIGT Shell basic operators  
+
