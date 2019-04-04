@@ -79,3 +79,13 @@ Unix Shell atbalsta:
 - until loopu  
 - select loopu  
 echo -n nepārceļ pēc uzrakstīšanas tekstu jaunā rindiņā, kā to darītu vienkārši echo
+
+#Python vides  
+-Anaconda  
+-Colab.research.google.com  
+-213.175.92.37 X121REB360  
+
+#Python interpretētāji  
+-python  
+-ipython  
+-idle &  
